@@ -1,0 +1,31 @@
+{
+  "name": "classes-jogo-heroi",
+  "version": "1.0.0",
+  "description": "Desafio DIO - Sistema de classes de heróis para jogo de aventura usando POO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "exemplos": "node exemplos.js"
+  },
+  "keywords": [
+    "javascript",
+    "dio",
+    "bootcamp",
+    "desafio",
+    "classes",
+    "poo",
+    "orientacao-objetos",
+    "jogo",
+    "heroi"
+  ],
+  "author": "Marcus Vasconcellos <marcus@vasconcellos.net.br>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celloweb-ai/classes-jogo-heroi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/celloweb-ai/classes-jogo-heroi/issues"
+  },
+  "homepage": "https://github.com/celloweb-ai/classes-jogo-heroi#readme"
+}
